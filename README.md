@@ -8,6 +8,8 @@ Este proyecto contiene una serie de consultas SQL realizadas sobre una base de d
 
 El archivo `modulo4_BBDD_proyecto.sql` contiene varias consultas SQL que realizan operaciones sobre una base de datos de películas. Las consultas incluyen:
 
+[Diagrama obtenido por la BBDD y ampliado respondiendo algunsas de las preguntas, visible al ponernos encima del enlace image.png](image.png)
+
 
 --2 Nombre de todas las peliculas con una clasificacion por edades en R
 SELECT "title" , "rating"
